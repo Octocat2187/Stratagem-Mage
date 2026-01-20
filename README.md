@@ -1,12 +1,12 @@
 # Stratagem-Mage
 Simple tool to enable Voice Commands for Helldivers 2 Stratagems. WIP.
 
-If it crashes on opening, Give it a couple more tries. Multiple threads are trying to create a file or something. I don't care enough at the moment to fix it, but it should only happen like once.
+Add or delete Stratagems in the Config window. The name is what will be picked up by the voice recognition software (System.Speech.Recognition library courtesy of Windows. Works great for this application!). The inputs need to be in wasd.
 
-Don't have all stratagems in yet. if I remember I'll shove some more in later.
+Example: 
+  Name: Eagle 500
+  Inputs: wdsss
 
-A bit slower than punching in the simpler strats by hand, but faster than I can drop a hellbomb by hand
+Check which boxes you wish to enable then x-out the Config. The main window will pop up and then you're rolling! The Stratagem Mage won't call in any stratagems by default unless you're holding the CTRL key, but there's a checkbox to disable that if you really want to freestyle.
 
-Just run this thing whenever you're playing and it'll work automatically.
-
-Probably not considered cheating?
+This was a low-effort project that took me two afternoons. Hope it's somewhat entertaining for you!
