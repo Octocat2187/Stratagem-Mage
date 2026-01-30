@@ -9,4 +9,4 @@ Example:
 
 Check which boxes you wish to enable then x-out the Config. The main window will pop up and then you're rolling! The Stratagem Mage won't call in any stratagems by default unless you're holding the CTRL key, but there's a checkbox to disable that if you really want to freestyle.
 
-New update! Now supports arrow keys as stratagem inputs! That is, it will use the arrow keys to call in stratagems. Still use wasd keys to set up the commands. This allows users to call in stratagems while moving without needing to take their hand off of their mouse!
+Latest update: Coded some Input Listening for configuring your Stratagem Key in addition to calling in a stratagem. This means that any key (including special keys like ctrl or alt) may be configured as a Stratagem Key, and most keys (No promises that the Special Keys like ctrl or alt will work but you can try) can be used as stratagem keys. Much more universal!
