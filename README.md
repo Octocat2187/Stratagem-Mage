@@ -1,4 +1,12 @@
 # Stratagem-Mage
+
+--------------------------------------
+I made an installer! ...but I can't upload files over a certain size to GitHub, and I guess that includes my .zip of the installer.
+If you really, REALLY want to play fast-and-loose with your cyber safety, here's a link to a shared file in my Google Drive.
+
+https://drive.google.com/file/d/1yOKOjtEYtYc5B5tZ81rPOawNUdNj9Akz/view?usp=sharing
+--------------------------------------
+
 Simple tool to enable Voice Commands for Helldivers 2 Stratagems. WIP.
 
 Add or delete Stratagems in the Config window. The name is what will be picked up by the voice recognition software (System.Speech.Recognition library courtesy of Windows. Works great for this application!). The inputs need to be in wasd.
